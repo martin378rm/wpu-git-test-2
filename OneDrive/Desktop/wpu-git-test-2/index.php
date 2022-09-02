@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Git remote</h1>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Consequuntur sit, cupiditate maiores facilis quisquam doloribus eius quibusdam, earum quas recusandae ratione aut commodi sunt id expedita provident deleniti! Ipsa, veritatis!</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis reiciendis sed, blanditiis ipsam eaque eos. Exercitationem nulla corporis vero nisi perferendis totam consectetur, magnam laudantium numquam earum a quisquam porro.</p>
 </body>
 </html>
